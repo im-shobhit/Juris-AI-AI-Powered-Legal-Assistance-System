@@ -20,16 +20,16 @@ Built as a final-year engineering project to demonstrate the practical applicati
 To run this application, you must start both the backend AI server and the frontend UI dashboard simultaneously.
 
 ### 1. Start the Backend (Terminal 1)
+
 ```
-bash
 cd backend
 .\venv\Scripts\Activate.ps1
 python main.py
 ```
 
 ### 2. Start the Frontend (Terminal 2)
+
 ```
-Bash
 cd frontend
 npm run dev
 ```
